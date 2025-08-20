@@ -50,3 +50,4 @@ On first start the bot creates a BIP39 mnemonic and stores it under `data/` usin
 ## License
 
 MIT
+# escrow-bot
